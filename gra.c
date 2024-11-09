@@ -7,5 +7,6 @@ int main(void)
 	puts("Do widzenia");
 	puts("Cześć");
 	//Gra
+	//Leczenie v1
 }
 
