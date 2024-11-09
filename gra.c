@@ -6,5 +6,6 @@ int main(void)
 	puts("Dzień dobry");
 	puts("Do widzenia");
 	puts("Cześć");
+	//Gra
 }
 
