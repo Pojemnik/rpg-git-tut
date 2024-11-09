@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	puts("Hello world");
+	puts("Dzień dobry");
 }
 
